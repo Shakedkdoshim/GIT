@@ -1,2 +1,2 @@
 print("rtrtrt")
-print("rtrtrt")
+print("rt")
