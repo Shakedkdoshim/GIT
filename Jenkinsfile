@@ -14,5 +14,4 @@ pipeline {
                     sh 'python3 main.py'
                 }
             }
-        }
     }
